@@ -17,6 +17,7 @@
 		C0F10DE527C7E24C009C4C8A /* loginTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0F10DE427C7E24C009C4C8A /* loginTests.swift */; };
 		C0F10DEF27C7E24C009C4C8A /* loginUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0F10DEE27C7E24C009C4C8A /* loginUITests.swift */; };
 		C0F10DF127C7E24C009C4C8A /* loginUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0F10DF027C7E24C009C4C8A /* loginUITestsLaunchTests.swift */; };
+		C0F10DFE27C8042F009C4C8A /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0F10DFD27C8042F009C4C8A /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C0F10DEA27C7E24C009C4C8A /* loginUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = loginUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0F10DEE27C7E24C009C4C8A /* loginUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginUITests.swift; sourceTree = "<group>"; };
 		C0F10DF027C7E24C009C4C8A /* loginUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C0F10DFD27C8042F009C4C8A /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				C0F10DCA27C7E24B009C4C8A /* AppDelegate.swift */,
 				C0F10DCC27C7E24B009C4C8A /* SceneDelegate.swift */,
 				C0F10DCE27C7E24B009C4C8A /* ViewController.swift */,
+				C0F10DFD27C8042F009C4C8A /* ViewController2.swift */,
 				C0F10DD027C7E24B009C4C8A /* Main.storyboard */,
 				C0F10DD627C7E24C009C4C8A /* Assets.xcassets */,
 				C0F10DD827C7E24C009C4C8A /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0F10DFE27C8042F009C4C8A /* ViewController2.swift in Sources */,
 				C0F10DCF27C7E24B009C4C8A /* ViewController.swift in Sources */,
 				C0F10DCB27C7E24B009C4C8A /* AppDelegate.swift in Sources */,
 				C0F10DCD27C7E24B009C4C8A /* SceneDelegate.swift in Sources */,
